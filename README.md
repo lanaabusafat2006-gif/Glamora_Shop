@@ -6,4 +6,5 @@ A web-based cosmetics store application developed using .NET 6 and Entity Framew
 - Hiba Hroob
 
 ###Link To See The Video For Glamora Shop:
-https://youtu.be/xS70qfklRFU
+
+https://youtu.be/b9c6LH81aZI
