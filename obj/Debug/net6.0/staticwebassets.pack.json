@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Webproject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Webproject.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\hudabeauty_blush.png",
+      "PackagePath": "staticwebassets\\imgs\\hudabeauty_blush.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\hudabeauty_concealer.png",
+      "PackagePath": "staticwebassets\\imgs\\hudabeauty_concealer.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\hudabeauty_eyeshadow.png",
+      "PackagePath": "staticwebassets\\imgs\\hudabeauty_eyeshadow.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\hudabeauty_foundation.png",
+      "PackagePath": "staticwebassets\\imgs\\hudabeauty_foundation.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\hudabeauty_lipstick.png",
+      "PackagePath": "staticwebassets\\imgs\\hudabeauty_lipstick.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\hudabeauty_mascara.png",
+      "PackagePath": "staticwebassets\\imgs\\hudabeauty_mascara.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\maybelline_blush.png",
+      "PackagePath": "staticwebassets\\imgs\\maybelline_blush.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\maybelline_concealer.png",
+      "PackagePath": "staticwebassets\\imgs\\maybelline_concealer.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\maybelline_foundation.png",
+      "PackagePath": "staticwebassets\\imgs\\maybelline_foundation.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\maybelline_lipstick.png",
+      "PackagePath": "staticwebassets\\imgs\\maybelline_lipstick.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\maybelline_liquid eyeshadow.png",
+      "PackagePath": "staticwebassets\\imgs\\maybelline_liquid eyeshadow.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\maybelline_mascara.png",
+      "PackagePath": "staticwebassets\\imgs\\maybelline_mascara.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\trailer.mp4",
+      "PackagePath": "staticwebassets\\imgs\\trailer.mp4"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\ysl_blush.png",
+      "PackagePath": "staticwebassets\\imgs\\ysl_blush.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\ysl_concealer.png",
+      "PackagePath": "staticwebassets\\imgs\\ysl_concealer.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\ysl_eyeshadow.png",
+      "PackagePath": "staticwebassets\\imgs\\ysl_eyeshadow.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\ysl_foundation.png",
+      "PackagePath": "staticwebassets\\imgs\\ysl_foundation.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\ysl_lipstick.png",
+      "PackagePath": "staticwebassets\\imgs\\ysl_lipstick.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\imgs\\ysl_mascara.png",
+      "PackagePath": "staticwebassets\\imgs\\ysl_mascara.png"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\هبة حروب\\∞áí Ñ⌐φá\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Webproject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Webproject.props",
+      "PackagePath": "build\\Webproject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Webproject.props",
+      "PackagePath": "buildMultiTargeting\\Webproject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Webproject.props",
+      "PackagePath": "buildTransitive\\Webproject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

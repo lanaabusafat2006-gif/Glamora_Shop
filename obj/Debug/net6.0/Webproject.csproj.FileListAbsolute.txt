@@ -1,0 +1,332 @@
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\appsettings.Development.json
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\appsettings.json
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Webproject.staticwebassets.runtime.json
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Webproject.exe
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Webproject.deps.json
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Webproject.runtimeconfig.json
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Webproject.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Webproject.pdb
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Humanizer.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Web_Project\database\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.csproj.AssemblyReference.cache
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.AssemblyInfoInputs.cache
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.AssemblyInfo.cs
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.csproj.CoreCompileInputs.cache
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.MvcApplicationPartsAssemblyInfo.cache
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cache
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cs
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.Webproject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.build.Webproject.props
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webproject.props
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webproject.props
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\scopedcss\bundle\Webproject.styles.css
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\scopedcss\projectbundle\Webproject.bundle.scp.css
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.csproj.CopyComplete
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.dll
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\refint\Webproject.dll
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.pdb
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\Webproject.genruntimeconfig.cache
+D:\Web_Project\database\Webproject\Webproject\obj\Debug\net6.0\ref\Webproject.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\appsettings.Development.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\appsettings.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Webproject.staticwebassets.runtime.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Webproject.exe
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Webproject.deps.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Webproject.runtimeconfig.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Webproject.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Webproject.pdb
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Humanizer.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Formats.Asn1.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.csproj.AssemblyReference.cache
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.AssemblyInfoInputs.cache
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.AssemblyInfo.cs
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.csproj.CoreCompileInputs.cache
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.MvcApplicationPartsAssemblyInfo.cache
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cache
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cs
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\staticwebassets.build.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\staticwebassets.development.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.Webproject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.build.Webproject.props
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webproject.props
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webproject.props
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\scopedcss\bundle\Webproject.styles.css
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\scopedcss\projectbundle\Webproject.bundle.scp.css
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.csproj.Up2Date
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\refint\Webproject.dll
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.pdb
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\Webproject.genruntimeconfig.cache
+F:\Downloads\Webproject (4)\Webproject\Webproject\obj\Debug\net6.0\ref\Webproject.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\appsettings.Development.json
+F:\Desktop\هبة حروب\bin\Debug\net6.0\appsettings.json
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Webproject.exe
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Webproject.staticwebassets.runtime.json
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Webproject.deps.json
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Webproject.runtimeconfig.json
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Webproject.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Webproject.pdb
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Humanizer.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Formats.Asn1.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Desktop\هبة حروب\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.csproj.AssemblyReference.cache
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.AssemblyInfoInputs.cache
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.AssemblyInfo.cs
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.csproj.CoreCompileInputs.cache
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.MvcApplicationPartsAssemblyInfo.cache
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cache
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cs
+F:\Desktop\هبة حروب\obj\Debug\net6.0\staticwebassets.build.json
+F:\Desktop\هبة حروب\obj\Debug\net6.0\staticwebassets.development.json
+F:\Desktop\هبة حروب\obj\Debug\net6.0\staticwebassets\msbuild.Webproject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Desktop\هبة حروب\obj\Debug\net6.0\staticwebassets\msbuild.build.Webproject.props
+F:\Desktop\هبة حروب\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webproject.props
+F:\Desktop\هبة حروب\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webproject.props
+F:\Desktop\هبة حروب\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Desktop\هبة حروب\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Desktop\هبة حروب\obj\Debug\net6.0\scopedcss\bundle\Webproject.styles.css
+F:\Desktop\هبة حروب\obj\Debug\net6.0\scopedcss\projectbundle\Webproject.bundle.scp.css
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.csproj.Up2Date
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.dll
+F:\Desktop\هبة حروب\obj\Debug\net6.0\refint\Webproject.dll
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.pdb
+F:\Desktop\هبة حروب\obj\Debug\net6.0\Webproject.genruntimeconfig.cache
+F:\Desktop\هبة حروب\obj\Debug\net6.0\ref\Webproject.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\appsettings.Development.json
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\appsettings.json
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Webproject.staticwebassets.runtime.json
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Webproject.exe
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Webproject.deps.json
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Webproject.runtimeconfig.json
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Webproject.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Webproject.pdb
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Humanizer.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\هبة حروب\∞áí Ñ⌐φá\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.csproj.AssemblyReference.cache
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.AssemblyInfoInputs.cache
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.AssemblyInfo.cs
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.csproj.CoreCompileInputs.cache
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.MvcApplicationPartsAssemblyInfo.cache
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cache
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.RazorAssemblyInfo.cs
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\staticwebassets\msbuild.Webproject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\staticwebassets\msbuild.build.Webproject.props
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webproject.props
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webproject.props
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\staticwebassets.pack.json
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\staticwebassets.build.json
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\staticwebassets.development.json
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\scopedcss\bundle\Webproject.styles.css
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\scopedcss\projectbundle\Webproject.bundle.scp.css
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.csproj.CopyComplete
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.dll
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\refint\Webproject.dll
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.pdb
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\Webproject.genruntimeconfig.cache
+D:\هبة حروب\∞áí Ñ⌐φá\obj\Debug\net6.0\ref\Webproject.dll
